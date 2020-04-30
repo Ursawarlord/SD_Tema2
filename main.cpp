@@ -225,7 +225,7 @@ int main()
                 break;
             case 6:
                 f>>x>>y;
-                sk_lst.printElementsInBetween(g,x,y));
+                sk_lst.printElementsInBetween(g,x,y);
                 break;
         }
     };
